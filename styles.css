@@ -1,0 +1,21 @@
+body {
+    margin: 8px;
+    display: block
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+#subHeading {
+    text-align: center;
+}
+.testP_Class {
+    color: green;
+}
+h2 {
+    text-align: center;
+}
+.grid_container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
